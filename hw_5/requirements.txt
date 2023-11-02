@@ -21,6 +21,7 @@ Babel==2.13.1
 backcall==0.2.0
 beautifulsoup4==4.11.2
 bidict==0.22.1
+bigartm==0.9.2
 bigframes==0.10.0
 bleach==6.1.0
 blinker==1.4
@@ -138,7 +139,7 @@ google-cloud-language==2.9.1
 google-cloud-resource-manager==1.10.4
 google-cloud-storage==2.8.0
 google-cloud-translate==3.11.3
-google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=1cd0b41c4f990a100769a6cb73077dc09d5bd718f4221275edd4dd737229b57b
+google-colab @ file:///colabtools/dist/google-colab-1.0.0.tar.gz#sha256=95e690978fd5495b56acc57f0cc42fe20c1b49c53fc0ebd594295faa0971d055
 google-crc32c==1.5.0
 google-pasta==0.2.0
 google-resumable-media==2.6.0
